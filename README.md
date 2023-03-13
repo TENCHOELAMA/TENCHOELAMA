@@ -1,7 +1,7 @@
 # Hi there! I'm Tenzin 👋
 
 
-<img align="left" width="47%"  src="https://github-readme-stats.vercel.app/api?username=Tenchoelama&show_icons=true&theme=dark" />
+<img align="left" width="46%"  src="https://github-readme-stats.vercel.app/api?username=Tenchoelama&show_icons=true&theme=dark" />
 
 <img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tenchoelama&layout=compact" />
 
