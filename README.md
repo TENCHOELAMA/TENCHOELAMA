@@ -12,7 +12,10 @@
 #### In recent years, I have completed my studies at Metropolitan State University, earning a degree in Management Information Systems. Additionally, I have completed a certificate program in Computer Software Engineering at Coding Temple. My goal now is to continue expanding my knowledge and skills in the technology industry, with a particular focus on Back-End Engineering and Data Analytics. I am excited to pursue opportunities that allow me to further develop my expertise in this field and contribute to innovative projects and initiatives.
 #### Outside of work, I enjoy outdoor activities like hiking, riding motorcycles, and practicing martial arts for self-defense and fitness.
 
-### Languages
+
+### Technical Experience:
+
+#### Languages
 
 
 <img align="left" alt="" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -25,7 +28,7 @@
 <br>
 
 
-### Databases
+#### Databases
 
 <img align="left" alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 
@@ -36,7 +39,7 @@
 <br>
 <br>
 
-### Frameworks
+#### Frameworks
 
 <img align="left" alt="" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
 
