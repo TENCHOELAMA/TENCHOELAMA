@@ -7,6 +7,9 @@
 
 <br>
 <br>
+# About me:
+
+<br>
 
 ### As a backend and data engineer, I enjoy solving complex problems and improve app performance. I'm experienced in designing and implementing backend systems like databases, APIs, and server-side programming
 ### Outside of work, I enjoy outdoor activities like hiking, riding motorcycles, and practicing martial arts for self-defense and fitness.
