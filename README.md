@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Tenzin 
+## Hi there 👋 I'm Tenzin! 
 
 
 <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=Tenchoelama&show_icons=true&theme=dark" />
